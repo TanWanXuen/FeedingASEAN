@@ -1,1 +1,2 @@
 # FeedingASEAN
+By participating in ASEAN Data Science Explorer (ASEAN DSE) 2024, my teammate and I designed a proposal to reduce hunger and address SDG2. Data from various sources are collected to identify the key issues. The data are then visualized by using SAP Analytics Cloud. Based on the insights gained, we developed solutions and built a custom app, namely Nourish Net, using SAP Build Apps. This app aims to combat food insecurity and waste in ASEAN countries.
